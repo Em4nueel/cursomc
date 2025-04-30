@@ -6,7 +6,7 @@ Repositório desenvolvido a partir do curso **Modelagem Conceitual com Diagrama 
 
 Implementação prática de um modelo conceitual orientado a objetos com foco em:
 
-- Relacionamentos UML (1:N, N:1, 1:1, N:N)
+- Relacionamentos (1:N, N:1, 1:1, N:N)
 - Herança e enumerações
 - Classes de associação e entidades fracas
 - Criação automática de banco de dados relacional
